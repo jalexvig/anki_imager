@@ -1,0 +1,1 @@
+from anki_imager.add_images import process_notes_file
