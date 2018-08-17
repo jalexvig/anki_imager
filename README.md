@@ -2,6 +2,10 @@
 
 Visual stimuli helps memory. This script will add the first image from a google search to each note in one of your Anki decks!
 
+W/o Image                                                         | After
+:----------------------------------------------------------------:|:-------------------------:
+![Before](resources/anki_vocab_screenshot.png?raw=true "Before")  |  ![After](resources/anki_vocab_img_screenshot.png?raw=true "After")
+
 ## Installation
 
 ```
